@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Horizantal_Scroll_RV_images"
